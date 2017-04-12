@@ -59,6 +59,11 @@
                 # Multiplication and Division, then do all multiplication and division (modulus will fall here as well).
                 # Addition and Subtraction, then do all addition and subtraction, left to right.
                 # That means multiplication and division will be calculated before addition and subtraction.
+                #••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
+
+
+
+
 #••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
         # Example below
 #••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
