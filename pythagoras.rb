@@ -43,7 +43,7 @@ end
 puts pythagorean_theorem(5, 12)
 
 #••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-    # Convert POUNDS to KILOGRAMS by Chad Mooney
+    # Convert inches to centimeters by Chad Mooney
 #••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 puts "What is the desired length in inches?"
 inch = gets.to_f
