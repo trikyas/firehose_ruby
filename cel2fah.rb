@@ -21,5 +21,7 @@ temperature = gets.chomp.to_i
 def calculate(temperature)
   return temperature * 1.8 + 32
 end
-puts "The temperature is #{calculate(temperature)}°F (degrees Fahrenheit)".red
+puts "The temperature is"
+puts "#{calculate(temperature)}°F".red 
+puts "( °F ==> Degrees Fahrenheit)"
 puts "Thank you for using our service.".underline
